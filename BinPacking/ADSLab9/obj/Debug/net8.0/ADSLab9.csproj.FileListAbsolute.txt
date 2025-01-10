@@ -1,0 +1,44 @@
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/bin/Debug/net8.0/ADSLab9
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.deps.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/refint/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9_2024/ADSLab9/obj/Debug/net8.0/ref/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/bin/Debug/net8.0/ADSLab9
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.deps.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/bin/Debug/net8.0/ADSLab9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.sourcelink.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/refint/ADSLab9.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ADSLab9.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek9Sol_2024/ADSLab9/obj/Debug/net8.0/ref/ADSLab9.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\ADSLab9.exe
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\ADSLab9.deps.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\ADSLab9.runtimeconfig.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\ADSLab9.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\ADSLab9.pdb
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.AssemblyInfoInputs.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.AssemblyInfo.cs
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.csproj.CoreCompileInputs.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.sourcelink.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\refint\ADSLab9.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.pdb
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ADSLab9.genruntimeconfig.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ref\ADSLab9.dll

@@ -1,0 +1,15 @@
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\BinPacking_Unoptimised.exe
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\BinPacking_Unoptimised.deps.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\BinPacking_Unoptimised.runtimeconfig.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\BinPacking_Unoptimised.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\bin\Debug\net8.0\BinPacking_Unoptimised.pdb
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.AssemblyInfoInputs.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.AssemblyInfo.cs
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.csproj.CoreCompileInputs.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.sourcelink.json
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\refint\BinPacking_Unoptimised.dll
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.pdb
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\BinPacking_Unoptimised.genruntimeconfig.cache
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\university\Coursework documents\ADS\BinPacking\ADSLab9\obj\Debug\net8.0\ref\BinPacking_Unoptimised.dll
